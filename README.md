@@ -1,3 +1,5 @@
+<h2> You can see my profile at https://johnti04102000.github.io/my-portfolio/ </h2>
+
 <a href="#" target="_blank">
   <img src="svg/huutridev.svg" width="1200" alt="huutridev-official" />
 </a>
